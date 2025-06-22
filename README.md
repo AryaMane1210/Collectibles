@@ -37,12 +37,12 @@ Implemented the bonus feature : "**Send email to a static email-id upon clicking
 
 ---
 
-"**How to run locally**"
+#"**How to run locally**"
 # Clone the repo
 ```
 git clone https://github.com/AryaMane1210/Collectibles.git
 ```
-# For frontend: 
+ For frontend: 
  ```
 npm run dev
 ````
